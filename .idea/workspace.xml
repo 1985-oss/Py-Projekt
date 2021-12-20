@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b56cdd0-ca55-46ce-97ef-8f20e8d73456" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/first.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first/Readmy.md" beforeDir="false" />
-    </list>
+    <list default="true" id="3b56cdd0-ca55-46ce-97ef-8f20e8d73456" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1639991377373</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1639993583964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639993583964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
